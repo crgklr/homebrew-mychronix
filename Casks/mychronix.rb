@@ -1,8 +1,8 @@
 # Updated by Mychronix's release workflow (scripts/publish-homebrew.sh in
 # github.com/crgklr/mychronix); changes made here are replaced at the next release.
 cask "mychronix" do
-  version "0.1.12"
-  sha256 "275d6b39fd8c0ea16e72527fa7e7db52bf465aae72c6ae4e67f2798f42550ace"
+  version "0.1.13"
+  sha256 "a435cdacbb3f25ac2c8010b0eef248373b1a4c925ccf1a205a4e8e005f0a65cd"
 
   url "https://github.com/crgklr/mychronix/releases/download/v#{version}/Mychronix-#{version}-arm64.dmg"
   name "Mychronix"
